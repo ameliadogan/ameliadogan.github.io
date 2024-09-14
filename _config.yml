@@ -18,7 +18,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://docs.google.com/document/d/1h9N4eJleDLNuQIZ1iNZB_7q-qn1GXQAjAe-2yxcCuRI/edit?usp=sharing"}
   - {title: "Publications", file: "/pubs.md"}
   - {title: "About", file: "/about.md"}
-  - {title: "Home", file: "index.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:dogan@uw.edu"}
