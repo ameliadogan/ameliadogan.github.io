@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<img style="float: right;" src="assets/headshot.jpg"; alt = "photo of Amelia Dogan on a bench">
 
 
 I'm a PhD student at the University of Washington where I'm advised by [Lindah Kotut](https://faculty.washington.edu/kotut/). My research tries to broadly understand how we can use data and build technology in more just and sustainable ways for and with marganlized communities. I'm particularly interested in working with activists and understanding how to use climate justice to better design technology. 
