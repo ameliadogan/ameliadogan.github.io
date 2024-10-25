@@ -1,4 +1,4 @@
-#Peer-Reviewed - Journal/Conference Papers
+### Peer-Reviewed - Journal/Conference Papers
 
 Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Val, **Amelia Dogan**, and Natasha Ansari. “Geographies of missing data: Spatializing counterdata production against feminicide.” In Environment and Planning D: Society and Space. 2024. [journals.sagepub.com/doi/10.1177/02637758241275961](https://journals.sagepub.com/doi/10.1177/02637758241275961).
 
@@ -6,7 +6,7 @@ Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Va
 
 Harini Suresh, Rajiv Movva, **Amelia Lee Dogan**, Rahul Bhargava, Isadora Cruxên,  Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, and Catherine D’Ignazio. “Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection,” In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency, FAccT ‘22, Seoul, South Korea, June 2022. [doi.org/10.1145/3531146.3533132](doi.org/10.1145/3531146.3533132)**Best Student Paper Award**
 
-#Lightly Peer Reviewed - Workshop/Poster 
+### Lightly Peer Reviewed - Workshop/Poster 
 Harini Suresh, Nikki Stevens, and **Amelia Lee Dogan**. “Co-liberation through Data & Sociotechnical Systems? Reflections, Tensions, and Possibilities.” A Toolbox of Feminist Wonder Workshop at CSCW ‘23, Minneapolis, MN, USA (Hybrid), October 15, 2023.
 
 **Amelia Lee Dogan**. “Thinking Beyond Fairness: Applying Abolition Ecologies to Data.” Public Interest Technology Students Symposium at Public Interest Technology University Network (PIT-UN) Convening, Boston, MA (Boston University), October 12-13, 2023.
