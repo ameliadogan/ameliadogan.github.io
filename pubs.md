@@ -4,7 +4,7 @@ Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Va
 
 **Amelia Lee Dogan** and Danielle Wood. ““Do you collect data to give to the university or do you  do the work to benefit people?”: Indigenous Data Sovereignty in Environmental Contexts,” In Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '23), Cape Town, South Africa, August 2023. [doi.org/10.1145/3588001.3609368](https://doi.org/10.1145/3588001.3609368)
 
-Harini Suresh, Rajiv Movva, **Amelia Lee Dogan**, Rahul Bhargava, Isadora Cruxên,  Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, and Catherine D’Ignazio. “Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection,” In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency, FAccT ‘22, Seoul, South Korea, June 2022. [doi.org/10.1145/3531146.3533132] (https://doi.org/10.1145/3531146.3533132)  **Best Student Paper Award**
+Harini Suresh, Rajiv Movva, **Amelia Lee Dogan**, Rahul Bhargava, Isadora Cruxên,  Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, and Catherine D’Ignazio. “Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection,” In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency, FAccT ‘22, Seoul, South Korea, June 2022. [doi.org/10.1145/3531146.3533132](https://doi.org/10.1145/3531146.3533132)  **Best Student Paper Award**
 
 ### Lightly Peer Reviewed - Workshop/Poster 
 
