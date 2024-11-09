@@ -11,7 +11,7 @@ Previously, I got my undergraduate degree at MIT in Urban Planning with Computer
 
 ### Updates
 
-* Nov 2024: I'll be at a [workshop](https://sites.google.com/view/climatemigrationcscw/) at CSCW 2025 thinking about co-speculation with climate advocacy in Costa Rica. I'm also presenting a poster about assesing cybersecurity risk in distributed energy resources at the [Clean Energy Education & Empowerment](https://c3e.org/) Poster Symposium at Stanford. 
+* Nov 2024: I'll be at a [workshop](https://sites.google.com/view/climatemigrationcscw/) at CSCW 2024 thinking about co-speculation with climate advocacy in Costa Rica. I'm also presenting a poster about assesing cybersecurity risk in distributed energy resources at the [Clean Energy Education & Empowerment](https://c3e.org/) Poster Symposium at Stanford. 
 * Oct 2024: I'm presenting a poster about design priorities of climate and environmental activists and AI for sustainability developers at the [Graduate Climate Conference](https://graduateclimateconference.github.io/).
 * Sep 2024: I'm quoted along with some other Data + Feminism Lab colleagues in an article about data for LGBTQ+ communities in the [Washington Blade](https://www.washingtonblade.com/2024/09/13/how-data-helps-hurts-lgbtq-communities/)
 * Sep 2024: Co-authored paper with the Data + Feminism Lab on geographies of feminicide is published in [Environment and Planning D](https://doi.org/10.1177/02637758241275961)
