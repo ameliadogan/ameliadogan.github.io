@@ -1,3 +1,4 @@
+## Selected Publications
 ### Peer-Reviewed - Journal/Conference Papers 
 
 Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Val, **Amelia Dogan**, and Natasha Ansari. “Geographies of missing data: Spatializing counterdata production against feminicide.” In Environment and Planning D: Society and Space. 2024. [journals.sagepub.com/doi/10.1177/02637758241275961](https://journals.sagepub.com/doi/10.1177/02637758241275961).
