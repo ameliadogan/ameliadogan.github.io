@@ -12,7 +12,7 @@ Previously, I got my undergraduate degree at MIT in Urban Planning with Computer
 ### Updates
 
 * Jan 2025: I'll be at [GROUP](https://group.acm.org/conferences/group25/papers.php) presenting my design fiction (in collaboration with Lindah Kotut) about what a [grassroots climate AI ecosystem](https://drive.google.com/file/d/1UG3zqR6cppzfrWPC1xkJH3MAJ20hca1B/view?usp=sharing) could look like. 
-* Dec 2024: Gave talk at the MIT Climate and Sustainability Consortium about social sustainability in corporate sustainability reports. 
+* Dec 2024: Gave a talk at the MIT Climate and Sustainability Consortium about social sustainability in corporate sustainability reports. 
 * Nov 2024: I'll be at a [workshop](https://sites.google.com/view/climatemigrationcscw/) at CSCW 2024 thinking about [co-speculation with climate advocacy](https://drive.google.com/file/d/1NCtyGRddqA5hnutc_nKGSTCLllIleFRH/view?usp=sharing) in Costa Rica. I'm also presenting a poster about [assesing cybersecurity risk in distributed energy resources](https://drive.google.com/file/d/1KMHXOkp9GNEKOkKYujAyzzBcNBFjZh6c/view?usp=sharing) at the [Clean Energy Education & Empowerment](https://c3e.org/) Poster Symposium at Stanford. 
 * Oct 2024: I'm presenting a poster about design priorities of climate and environmental activists and AI for sustainability developers at the [Graduate Climate Conference](https://graduateclimateconference.github.io/).
 * Sep 2024: I'm quoted along with some other Data + Feminism Lab colleagues in an article about data for LGBTQ+ communities in the [Washington Blade](https://www.washingtonblade.com/2024/09/13/how-data-helps-hurts-lgbtq-communities/)
