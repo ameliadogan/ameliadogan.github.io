@@ -8,7 +8,7 @@ Harini Suresh, Rajiv Movva, **Amelia Lee Dogan**, Rahul Bhargava, Isadora Cruxê
 
 ##Lightly Peer Reviewed - Workshop/Poster 
 
-***Amelia Lee Dogan**. “Co-Speculation for Climate Advocacy.”  HCI, Mobility Justice, and Migration in the Face of Climate Crisis at CSCW ‘24, San Jose, Costa Rica, November 2024.
+***Amelia Lee Dogan***. “Co-Speculation for Climate Advocacy.”  HCI, Mobility Justice, and Migration in the Face of Climate Crisis at CSCW ‘24, San Jose, Costa Rica, November 2024.
 
 Harini Suresh, Nikki Stevens, and **Amelia Lee Dogan**. “Co-liberation through Data & Sociotechnical Systems? Reflections, Tensions, and Possibilities.” A Toolbox of Feminist Wonder Workshop at CSCW ‘23, Minneapolis, MN, USA (Hybrid), October 15, 2023.
 
