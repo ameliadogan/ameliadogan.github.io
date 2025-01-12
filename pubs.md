@@ -1,5 +1,7 @@
 ***Peer-Reviewed - Journal/Conference Papers***
 
+**Amelia Lee Dogan** and Lindah Kotut. “Tomatoes Die: A Design Fiction for Grassroots Climate AI” In Proceedings of the ACM on Human-Computer Interaction (GROUP '25), Hilton Head Island, South Carolina, January 2025. [doi.org/10.1145/3701212](https://doi.org/10.1145/3701212)
+
 Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Val, **Amelia Dogan**, and Natasha Ansari. “Geographies of missing data: Spatializing counterdata production against feminicide.” In Environment and Planning D: Society and Space. 2024. [journals.sagepub.com/doi/10.1177/02637758241275961](https://journals.sagepub.com/doi/10.1177/02637758241275961).
 
 **Amelia Lee Dogan** and Danielle Wood. ““Do you collect data to give to the university or do you  do the work to benefit people?”: Indigenous Data Sovereignty in Environmental Contexts,” In Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '23), Cape Town, South Africa, August 2023. [doi.org/10.1145/3588001.3609368](https://doi.org/10.1145/3588001.3609368)
