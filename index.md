@@ -11,6 +11,7 @@ Previously, I got my undergraduate degree at MIT in Urban Planning with Computer
 
 ### Updates
 
+* Feb 2025: I wrote a [book review](https://networks.h-net.org/group/reviews/20058590/dogan-keilty-queer-data-studies) on Queer Data Studies edited by Patrick Keilty for H-Sci-Med-Tech. 
 * Jan 2025: I'll be at [GROUP](https://group.acm.org/conferences/group25/papers.php) presenting my design fiction (in collaboration with Lindah Kotut) about what a [grassroots climate AI ecosystem](https://dl.acm.org/doi/10.1145/3701212) could look like. Also, a new journal paper in Feminist Media Studies with Catherine D'Ignazio looking at [how data activists use social media](https://doi.org/10.1080/14680777.2024.2447804).
 * Dec 2024: Gave a talk at the MIT Climate and Sustainability Consortium about social sustainability in corporate sustainability reports. 
 * Nov 2024: I'll be at a [workshop](https://sites.google.com/view/climatemigrationcscw/) at CSCW 2024 thinking about [co-speculation with climate advocacy](https://drive.google.com/file/d/1NCtyGRddqA5hnutc_nKGSTCLllIleFRH/view?usp=sharing) in Costa Rica. I'm also presenting a poster about [assesing cybersecurity risk in distributed energy resources](https://drive.google.com/file/d/1KMHXOkp9GNEKOkKYujAyzzBcNBFjZh6c/view?usp=sharing) at the [Clean Energy Education & Empowerment](https://c3e.org/) Poster Symposium at Stanford. 
