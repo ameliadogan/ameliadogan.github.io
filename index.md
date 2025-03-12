@@ -5,7 +5,7 @@ layout: page
 
 I'm a PhD student at the University of Washington where I'm advised by [Lindah Kotut](https://faculty.washington.edu/kotut/). My research tries to broadly understand how we can use data and build technology in more just and sustainable ways for and with marginalized communities. I'm particularly interested in working with activists and understanding how to use climate justice to better design technology. 
 
-I'm also a research affiliate with the [Data + Feminism Lab at MIT](https://dataplusfeminism.mit.edu/). I'm supported by an NSF Graduate Research Fellowship and University of Washington Graduate School’s Office of Graduate Student Equity & Excellence.
+I'm also a research affiliate with the [Data + Feminism Lab at MIT](https://dataplusfeminism.mit.edu/) and [Graduate Fellow at the Center for Environmental Politics at UW](https://envirpol.org/). I'm supported by an NSF Graduate Research Fellowship and University of Washington Graduate School’s Office of Graduate Student Equity & Excellence.
 
 Previously, I got my undergraduate degree at MIT in Urban Planning with Computer Science and American Studies. I've also interned at Lawrence Livermore National Lab, Google, among other places.
 
