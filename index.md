@@ -3,7 +3,7 @@ layout: page
 ---
 ![photo of Amelia Dogan on a bench](assets/headshot.jpeg){: style="float: right; width : 30%; padding-left : 10px"}
 
-I'm a PhD candidate student at the University of Washington where I'm advised by [Lindah Kotut](https://faculty.washington.edu/kotut/). My research tries to broadly understand how we can use data and build technology in more just and sustainable ways for and with marginalized communities. I'm particularly interested in working with activists and understanding how to use climate justice to better design technology. 
+I'm a PhD candidate at the University of Washington where I'm advised by [Lindah Kotut](https://faculty.washington.edu/kotut/). My research tries to broadly understand how we can use data and build technology in more just and sustainable ways for and with marginalized communities. I'm particularly interested in working with activists and understanding how to use climate justice to better design technology. 
 
 I'm also a research affiliate with the [Data + Feminism Lab at MIT](https://dataplusfeminism.mit.edu/) and [Graduate Fellow at the Center for Environmental Politics at UW](https://envirpol.org/). I'm supported by an NSF Graduate Research Fellowship and University of Washington Graduate School’s Office of Graduate Student Equity & Excellence.
 
