@@ -1,4 +1,5 @@
 ***Peer-Reviewed - Journal/Conference Papers***
+
 **Amelia Lee Dogan**, Hongjing Lin, and Lindah Kotut. "Down to Earth": Design Considerations for AI for Sustainability from the Environmental and Climate Movement. In Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS '25), Madeira, Portugal July 2025. [doi.org/10.1145/3715336.3735734](https://doi.org/10.1145/3715336.3735734)
 
 **Amelia Lee Dogan**, Meira Gilbert, and Lindah Kotut. “Easy Come, Easy Go: Phone Enabled Small-Scale Financial Grift” In Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '25), Toronto, Canada, July 2025. [doi.org/10.1145/3715335.3736315](https://doi.org/10.1145/3715335.3736315) (Work-in-Progress)
@@ -13,7 +14,7 @@ Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Va
 
 Harini Suresh, Rajiv Movva, **Amelia Lee Dogan**, Rahul Bhargava, Isadora Cruxên,  Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, and Catherine D’Ignazio. “Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection,” In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency, FAccT ‘22, Seoul, South Korea, June 2022. [doi.org/10.1145/3531146.3533132](https://doi.org/10.1145/3531146.3533132)  **Best Student Paper Award**
 
-*** Selected Lightly Peer Reviewed - Workshop/Poster***
+***Selected Lightly Peer Reviewed - Workshop/Poster***
 
 **Amelia Lee Dogan**. “Co-Speculation for Climate Advocacy.”  HCI, Mobility Justice, and Migration in the Face of Climate Crisis at CSCW ‘24, San Jose, Costa Rica, November 2024.
 
