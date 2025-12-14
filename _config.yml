@@ -1,0 +1,31 @@
+title: "Amelia Lee Doğan"
+description: "University of Washington"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false        # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "CV", url: "https://docs.google.com/document/d/1h9N4eJleDLNuQIZ1iNZB_7q-qn1GXQAjAe-2yxcCuRI/edit?usp=sharing"}
+  - {title: "Publications", file: "pubs.md"}
+  - {title: "About", file: "about.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:dogan@uw.edu"}
+
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
