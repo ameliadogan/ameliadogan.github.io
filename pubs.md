@@ -1,5 +1,9 @@
 ***Peer-Reviewed - Journal/Conference Papers***
 
+**Amelia Lee Dogan**, Nikko Stevens, and Catherine D’Ignazio. “Trans Data: A Research and Design Agenda from Trans Activists’ Transformative Data Science.” In Proceedings of the ACM on Human-Computer Interaction (CSCW ‘25), Bergen, Norway, October 2025. **Honorable Mention, DEI Recognition**
+
+Nikko Stevens and **Amelia Lee Dogan**. “Trans data epistemologies: Transgender ways of knowing with data.” In Big Data & Society. October 2025.
+
 **Amelia Lee Dogan**, Hongjing Lin, and Lindah Kotut. "Down to Earth": Design Considerations for AI for Sustainability from the Environmental and Climate Movement. In Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS '25), Madeira, Portugal July 2025. [doi.org/10.1145/3715336.3735734](https://doi.org/10.1145/3715336.3735734)
 
 **Amelia Lee Dogan**, Meira Gilbert, and Lindah Kotut. “Easy Come, Easy Go: Phone Enabled Small-Scale Financial Grift” In Proceedings of the 2025 ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS '25), Toronto, Canada, July 2025. [doi.org/10.1145/3715335.3736315](https://doi.org/10.1145/3715335.3736315) (Work-in-Progress)
