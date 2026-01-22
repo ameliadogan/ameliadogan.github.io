@@ -1,8 +1,8 @@
 ***Peer-Reviewed - Journal/Conference Papers***
 
-**Amelia Lee Dogan**, Nikko Stevens, and Catherine D’Ignazio. “Trans Data: A Research and Design Agenda from Trans Activists’ Transformative Data Science.” In Proceedings of the ACM on Human-Computer Interaction (CSCW ‘25), Bergen, Norway, October 2025. [doi.org/10.1145/3757682](doi.org/10.1145/3757682) **Honorable Mention, DEI Recognition**
+**Amelia Lee Dogan**, Nikko Stevens, and Catherine D’Ignazio. “Trans Data: A Research and Design Agenda from Trans Activists’ Transformative Data Science.” In Proceedings of the ACM on Human-Computer Interaction (CSCW ‘25), Bergen, Norway, October 2025. [doi.org/10.1145/3757682](https://doi.org/10.1145/3757682) **Honorable Mention, DEI Recognition**
 
-Nikko Stevens and **Amelia Lee Dogan**. “Trans data epistemologies: Transgender ways of knowing with data.” In Big Data & Society. October 2025 [doi.org/10.1177/20539517251381694](doi.org/10.1177/20539517251381694)
+Nikko Stevens and **Amelia Lee Dogan**. “Trans data epistemologies: Transgender ways of knowing with data.” In Big Data & Society. October 2025 [doi.org/10.1177/20539517251381694](https://doi.org/10.1177/20539517251381694)
 
 **Amelia Lee Dogan**, Hongjing Lin, and Lindah Kotut. "Down to Earth": Design Considerations for AI for Sustainability from the Environmental and Climate Movement. In Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS '25), Madeira, Portugal July 2025. [doi.org/10.1145/3715336.3735734](https://doi.org/10.1145/3715336.3735734)
 
@@ -10,7 +10,7 @@ Nikko Stevens and **Amelia Lee Dogan**. “Trans data epistemologies: Transgende
 
 **Amelia Lee Dogan** and Lindah Kotut. “Tomatoes Die: A Design Fiction for Grassroots Climate AI” In Proceedings of the ACM on Human-Computer Interaction (GROUP '25), Hilton Head Island, South Carolina, January 2025. [doi.org/10.1145/3701212](https://doi.org/10.1145/3701212)
 
-**Amelia Lee Dogan** and Catherine D'Ignazio. "Data activism and social media in the case of racialized and gendered deaths and disappearances." In Feminist Media Studies. 2025. [https://doi.org/10.1080/14680777.2024.2447804](https://doi.org/10.1080/14680777.2024.2447804)
+**Amelia Lee Dogan** and Catherine D'Ignazio. "Data activism and social media in the case of racialized and gendered deaths and disappearances." In Feminist Media Studies. 2025. [doi.org/10.1080/14680777.2024.2447804](https://doi.org/10.1080/14680777.2024.2447804)
 
 Catherine D’Ignazio, Isadora Cruxên, Angeles Martinez Cuba, Helena Suárez Val, **Amelia Dogan**, and Natasha Ansari. “Geographies of missing data: Spatializing counterdata production against feminicide.” In Environment and Planning D: Society and Space. 2024. [journals.sagepub.com/doi/10.1177/02637758241275961](https://journals.sagepub.com/doi/10.1177/02637758241275961).
 
